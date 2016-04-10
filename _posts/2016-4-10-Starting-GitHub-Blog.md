@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Starting GitHub Blogging"
+title: Starting GitHub Blogging
 date: 2016-04-10 18:22:00
 ---
 
